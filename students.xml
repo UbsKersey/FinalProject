@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<students>
+  <student>
+    <id>2</id>
+    <name>Maraiah Queen Arceta</name>
+    <age>22</age>
+    <gender>Female</gender>
+    <email>aiah@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Science in Architecture</course>
+    <picture>682fd396257d9.jpg</picture>
+    <firstname>Maraiah Queen</firstname>
+    <middlename/>
+    <lastname>Arceta</lastname>
+    <birthday>2001-01-27</birthday>
+  </student>
+  <student>
+    <id>3</id>
+    <name>Mikha Lim</name>
+    <age>21</age>
+    <gender>Female</gender>
+    <email>mikha@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Science in Accountancy</course>
+    <firstname>Mikhaela Janna</firstname>
+    <middlename>Jimenea</middlename>
+    <lastname>Lim</lastname>
+    <birthday>2003-11-08</birthday>
+    <picture>682fd366a33f7.jpg</picture>
+  </student>
+  <student>
+    <id>4</id>
+    <name>Colet Vergara</name>
+    <age>23</age>
+    <gender>Female</gender>
+    <email>colet@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Science in Computer Engineering</course>
+    <picture>6833b74d2180f.jpg</picture>
+    <firstname>Ma Nicolette</firstname>
+    <middlename/>
+    <lastname>Vergara</lastname>
+    <birthday>2001-09-14</birthday>
+  </student>
+  <student>
+    <id>5</id>
+    <firstname>Lindtsey Stacey Aubrey</firstname>
+    <middlename/>
+    <lastname>Sevilleja</lastname>
+    <birthday>2003-07-13</birthday>
+    <gender>Female</gender>
+    <email>stacey@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Library and Information Science</course>
+    <picture>682fd05ff1705.jpg</picture>
+  </student>
+  <student>
+    <id>6</id>
+    <firstname>Jhoanna Christine</firstname>
+    <middlename>Burgos</middlename>
+    <lastname>Robles</lastname>
+    <birthday>2004-01-26</birthday>
+    <gender>Female</gender>
+    <email>jhoanna@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Performing Arts (Theater Track)</course>
+    <picture>682fd226aec63.jpg</picture>
+  </student>
+  <student>
+    <id>1</id>
+    <firstname>Gweneth</firstname>
+    <middlename/>
+    <lastname>Apuli</lastname>
+    <birthday>2003-06-19</birthday>
+    <gender>Female</gender>
+    <email>gwen@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Fine Arts Major in Visual Communication</course>
+    <picture>682fd44db473e.jpg</picture>
+  </student>
+  <student>
+    <id>7</id>
+    <firstname>Mary Loi Yves</firstname>
+    <middlename>Kipte</middlename>
+    <lastname>Ricalde</lastname>
+    <birthday>2002-05-27</birthday>
+    <gender>Female</gender>
+    <email>maloi@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Arts in Broadcasting</course>
+    <picture>682fd5d5ebe30.jpg</picture>
+  </student>
+  <student>
+    <id>8</id>
+    <firstname>Sheena Mae</firstname>
+    <middlename/>
+    <lastname>Catacutan</lastname>
+    <birthday>2004-05-09</birthday>
+    <gender>Female</gender>
+    <email>sheena@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Science in Civil Engineering</course>
+    <picture>682fd63c48916.jpg</picture>
+  </student>
+  <student>
+    <id>9</id>
+    <firstname>Rexie John</firstname>
+    <middlename>Castro</middlename>
+    <lastname>Morte</lastname>
+    <birthday>2002-10-30</birthday>
+    <gender>Male</gender>
+    <email>morterexiejohn@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Science in Information Technology</course>
+    <picture>682fd8b9db0a9.jpg</picture>
+  </student>
+  <student>
+    <id>10</id>
+    <firstname>Ubs Kersey</firstname>
+    <middlename/>
+    <lastname>Javier</lastname>
+    <birthday>2003-02-14</birthday>
+    <gender>Male</gender>
+    <email>yukei@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Science in Information Technology</course>
+    <picture>682fd91224dc3.jpg</picture>
+  </student>
+  <student>
+    <id>11</id>
+    <firstname>Alden</firstname>
+    <middlename/>
+    <lastname>Richards</lastname>
+    <birthday>1998-04-13</birthday>
+    <gender>Male</gender>
+    <email>aldenrichards@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Arts in Legal Management</course>
+    <picture>6833b4ddc4a95.jpg</picture>
+  </student>
+  <student>
+    <id>12</id>
+    <firstname>Joel</firstname>
+    <middlename/>
+    <lastname>Malupiton</lastname>
+    <birthday>1997-08-06</birthday>
+    <gender>Male</gender>
+    <email>malupiton@gmail.com</email>
+    <contact>09123456789</contact>
+    <course>Bachelor of Science in Biology</course>
+    <picture>6833b56f28125.jpg</picture>
+  </student>
+</students>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <name>Rexie John Morte</name>
+    <username>rxjhn</username>
+    <email>morterexiejohn@gmail.com</email>
+    <password>qwertyuiop</password>
+  </user>
+  <user>
+    <name>Xuesheng</name>
+    <username>xuesheng01</username>
+    <email>xuesheng@gmail.com</email>
+    <password>qwertyuiop</password>
+  </user>
+  <user>
+    <name>Aiah Arceta</name>
+    <username>aiahkinss</username>
+    <email>aiaharceta@gmail.com</email>
+    <password>qwertyuiop</password>
+  </user>
+</users>
